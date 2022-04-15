@@ -15,5 +15,5 @@ while i < len(l1):
     i += 1
 
 
-print("Positive numbers: " +str(pos))
-print("Negative numbers: " +str(neg))
+print("Positive numbers: " + str(pos))
+print("Negative numbers: " + str(neg))
